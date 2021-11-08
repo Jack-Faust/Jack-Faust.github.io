@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+}
+
+.assignment img {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #20b2aa;
+}
+
+h1 {
+    color: darkorchid;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #20b2aa;
+}
+
+a:hover {
+    color: #f25c69;
+}
